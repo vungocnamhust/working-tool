@@ -1,0 +1,23 @@
+{
+  "name": "working-tool",
+  "version": "1.0.0",
+  "description": "An application for helping user work more effective",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vungocnamhust/working-tool.git"
+  },
+  "author": "Nam Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vungocnamhust/working-tool/issues"
+  },
+  "homepage": "https://github.com/vungocnamhust/working-tool#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  }
+}
